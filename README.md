@@ -16,8 +16,9 @@ A ReactJS Quick Start project that supports JavaScript ES7 transpilation to ES5 
 Clone or download the repo.
 
 ## Run:
-1. At the command prompt, enter `npm start` to start the Webpack Dev Server with Hot Module Replacement.
-1. Point your browser to `localhost:3000`. When you make changes to the code, Babel will transpile your code, Webpack will build the JavaScript bundle and Webpack Dev Server will refresh the browser.
+1. `run yarn`
+2. At the command prompt, enter `yarn start` to start the Webpack Dev Server with Hot Module Replacement.
+2. Point your browser to `localhost:3000`. When you make changes to the code, Babel will transpile your code, Webpack will build the JavaScript bundle and Webpack Dev Server will refresh the browser.
 
 ## Note
 If you cloned this repo (as opposed to having downloaded it) you should delete the `.git` folder (e.g. `rm -rf .git`) as you don't really want to track this repo. You can then, of course, create a new git repo to track your own work.
